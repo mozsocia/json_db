@@ -2,5 +2,5 @@
 
 
 ```
-my-json-server.typicode.com/mozsocia/josb_db
+my-json-server.typicode.com/mozsocia/josn_db
 ```
