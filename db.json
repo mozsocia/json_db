@@ -1,10 +1,10 @@
 {
     "profile":[
-        {"id": 1, "name": "Andrew", "age": 30},
-        {"id": 2, "name": "Brandon", "age": 25},
-        {"id": 3, "name": "Christina", "age": 26},
-        {"id": 4, "name": "Elena", "age": 28},
-        {"id": 5, "name": "Felicia", "age": 25} 
+        {"id": 1, "name": "Andrew", "age": 30, "loc":"dhaka"},
+        {"id": 2, "name": "Brandon", "age": 25, "loc":"dhaka"},
+        {"id": 3, "name": "Christina", "age": 26, "loc":"khulna"},
+        {"id": 4, "name": "Elena", "age": 28, "loc":"dhaka"},
+        {"id": 5, "name": "Felicia", "age": 25, "loc":"khulna"} 
       ]
     ,
     "trips": [
