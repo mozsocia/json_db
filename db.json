@@ -33,7 +33,7 @@
       "loc": "america"
     }
   ],
-   users : [
+   "users" : [
     {
       "id": 1,
       "firstName": "Caroline",
